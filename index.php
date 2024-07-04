@@ -10,6 +10,10 @@
 <body>
   <h1>Hello world!</h1>
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab!</p>
+  <ul>
+    <li>list ke 1</li>
+    <li>list ke 2</li>
+  </ul>
 </body>
 
 </html>
